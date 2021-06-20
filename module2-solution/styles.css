@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.site-title {
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
