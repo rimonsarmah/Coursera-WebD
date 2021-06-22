@@ -1,0 +1,46 @@
+.center {
+  text-align: center;
+}
+
+.navbar-nav {
+  background-color: darkseagreen;
+  color: white;
+  width: 100%;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+html {
+  margin: 0;
+  padding: 0;
+}
+.lit-padding {
+  padding: 10%;
+}
+
+.margin-right-add {
+  margin-right: 10%;
+}
+.menu-head {
+  text-align: center;
+}
+.item-name {
+  text-align: center;
+}
+.menu-item-wrapper {
+  background-color: grey;
+}
+.row {
+  margin: 2% !important;
+}
+@media screen and (max-width: 767px) {
+  .lit-margin {
+    margin: 5%;
+  }
+  .zeropad {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
